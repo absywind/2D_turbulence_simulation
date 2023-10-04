@@ -38,6 +38,8 @@ seed | random, and must be a negative integer
 output.u | Output file name for the $u$ component
 output.v | Output file name for the $v$ component
 
+Comments and suggestions are welcome.
+
 ## Running the executable
 In order to generate wind fields simply runt the executable with desired parameters in the input file:
 
