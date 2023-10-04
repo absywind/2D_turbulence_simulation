@@ -14,7 +14,8 @@ The model generates 2D wind fields for the longitudinal ($u$) and lateral ($v$) 
 ## Contents
 This repository has following files:
 1. An executable file compiled in a win64 operating system for windows: windsimu_win64.exe
-2. A sample input file foe generating wind fields: test2d.inp
+2. An executable file compiled in a Linux environment: windsimu_linux.exe
+3. A sample input file foe generating wind fields: test2d.inp
 
 The input file has the following format:
 Input  | Comment
