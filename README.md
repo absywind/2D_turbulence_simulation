@@ -1,5 +1,6 @@
 # 2D Turbulence Model
 A model to generate low-frequency wind fluctuations i.e. 2D turbulence. 
+Authors: Jakob Mann (jmsq@dtu.dk), and Abdul Haseeb Syed (absy@dtu.dk)
 
 ## Introduction
 This model is based on the 2D spectral tensor presented in [Syed and Mann (2023)](https://doi.org/10.21203/rs.3.rs-3194206/v1 "Syed and Mann (2023)").  The low-frequency turbulence model has four input parameters:
