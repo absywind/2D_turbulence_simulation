@@ -1,7 +1,7 @@
 # 2D Turbulence Simulation
 A simulation program to generate low-frequency wind fluctuations i.e. 2D turbulence. 
 
-__Authors__: __Jakob Mann__ (jmsq@dtu.dk), and __Abdul Haseeb Syed__ (absy@dtu.dk)
+__Authors__: __Jakob Mann__ (jmsq@dtu.dk), and __Abdul Haseeb Syed__ (absy@dtu.dk) (Tehnical University of Denmark, Denmark)
 
 ## Introduction
 This program is based on the 2D spectral tensor presented in [Syed and Mann (2023)](https://doi.org/10.21203/rs.3.rs-3194206/v1 "Syed and Mann (2023)").  The low-frequency turbulence model has four input parameters:
