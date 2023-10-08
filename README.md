@@ -49,5 +49,10 @@ To generate wind fields simply run the executable with the desired parameters in
 
 The output will be generated in binary format. 
 
+### Example output
+Here the parameters are: $\sigma^2_{2D} = 0.6 m^2 s^{-2}$, $L_{2D} = 15 km$, $z_i = 100 m$, and $\psi = 43^\circ$.
+
+![Example](https://github.com/absywind/2D_turbulence_simulation/assets/117355418/c18d79d7-dcbd-4991-84fb-f6c4c36c489f)
+
 ## Reference
 1. Abdul Haseeb Syed, Jakob Mann. A model for low-frequency, anisotropic wind fluctuations and coherences in the marine atmosphere, 27 July 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3194206/v1]
